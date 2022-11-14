@@ -415,6 +415,7 @@
                                              <div class="talpa-loader" style="display: none;">Loading...</div></div></div><div class="talpa-splash-bottom"></div></div>
                                              <iframe src="img/bg/my_match_bg.jpg" style="height:695px; width:1100px" title="Iframe Example"></iframe>
                                     </div>
+                                    <a onclick="open_fullscreen()" class="btn rotated-btn">FullScreen</a>
                                     <div class="uc-game-head-title">
                                         <h4>welcome PLAY FOR EVERYONE <span>Sling Drift</span></h4>
                                                 </div>
@@ -632,6 +633,18 @@
             document.getElementById("loadgame").innerHTML = html;
             document.getElementById('loadgame').scrollIntoView();
             }
+            function open_fullscreen() {
+                let game = document.getElementById("game-area");
+                if (game.requestFullscreen) {
+                    game.requestFullscreen();
+                } else if (game.mozRequestFullScreen) { /* Firefox */
+                    game.mozRequestFullScreen();
+                } else if (game.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
+                    game.webkitRequestFullscreen();
+                } else if (game.msRequestFullscreen) { /* IE/Edge */
+                    game.msRequestFullscreen();
+                }
+                };
         </script>
     </body>
 </html>
