@@ -4770,14 +4770,15 @@ ul.minicart .cart-price .new {
 }
 .footer-newsletter button {
 	position: absolute;
-	width: 53px;
-	height: 100%;
+	width: 55px;
+	height: 45px;
 	border: none;
 	color: #1c1121;
 	right: 0;
 	top: 0;
 	cursor: pointer;
-	font-size: 14px;
+	font-size: 15px;
+	margin-top: 28px;
 }
 .footer-fire {
 	position: absolute;
