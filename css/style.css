@@ -721,7 +721,7 @@ ul.minicart .cart-price .new {
 	background-position: right center;
 	background-size: cover;
 	position: relative;
-	margin-top: -50px;
+
 }
 .transparent-header {
 	position: absolute;
@@ -1750,7 +1750,6 @@ ul.minicart .cart-price .new {
 }
 .inner-about-img img:nth-child(2) {
 	margin-left: 10px;
-	margin-top: -315px;
 	box-shadow: 0px 2px 21px 0px rgba(17, 8, 23, 0.1);
 	border-radius: 10px;
 }
