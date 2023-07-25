@@ -1,0 +1,14 @@
+<svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ic_kolsearch_meiti_facebook">
+<g id="Group 427318885">
+<circle id="Ellipse 23" cx="16" cy="16.5" r="12.75" fill="white"/>
+<path id="Vector" d="M16 3.75C23.042 3.75 28.75 9.48022 28.75 16.5496C28.75 23.0766 23.8835 28.4628 17.5938 29.25V19.7495H21.9766L22.375 16.5496H17.5938V14.9496C17.5938 14.0657 18.307 13.3497 19.1875 13.3497H22.375V10.1498H19.1875C16.5467 10.1498 14.4062 12.2985 14.4062 14.9496V16.5496H12.0156V19.7495H14.4062V26.0741V28.946V29.25C8.11652 28.4628 3.25 23.0766 3.25 16.5496C3.25 9.48022 8.95802 3.75 16 3.75Z" fill="url(#paint0_linear_1004_6590)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1004_6590" x1="16" y1="3.75" x2="16" y2="29.25" gradientUnits="userSpaceOnUse">
+<stop stop-color="#52ABF7"/>
+<stop offset="1" stop-color="#2964D8"/>
+</linearGradient>
+</defs>
+</svg>
